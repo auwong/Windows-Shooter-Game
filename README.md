@@ -1,0 +1,1 @@
+This is an unfinished Windows 8 App project. The concept was that it is a top down shooter and the user's ship takes the ammo from enemies and uses that against them. 
